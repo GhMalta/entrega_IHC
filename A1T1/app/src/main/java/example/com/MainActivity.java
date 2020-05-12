@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
     TextView numberOne;
     TextView numberTwo;
 
-    TextView novo;
 
     Button sum;
 
